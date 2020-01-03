@@ -4,12 +4,16 @@ Little Program used to compare images
 #---#
 This program is used to display 6 images and see the contents of the images
 
+## How to run
+1. `python main.py`
+
 ### Prerequisites
 - Python 2.7
 - Pygame
 - csv
 - pandas
 - tkinter
+
 
 ## #How it works
 1. The program reads a csv file and takes the path (in coluumn one of csv file) and the file name (second column of the csv file)
