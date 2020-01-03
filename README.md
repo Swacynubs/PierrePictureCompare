@@ -5,7 +5,7 @@ Little Program used to compare images
 This program is used to display 6 images and see the contents of the images
 
 ## How to run
-1. `python main.py`
+1. `python main.py` inside a powershell window
 
 ### Prerequisites
 - Python 2.7
